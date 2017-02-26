@@ -1,0 +1,55 @@
+.wheretogobar{
+	background-color: yellow;
+	font-family: 
+	
+}
+
+.wheretogo{
+	margin-bottom: 0px;
+}
+
+.planyourtrip{
+	background-color: skyblue;
+}
+
+
+
+.sidetitle{
+	padding-right: 0px;
+}
+
+.header{
+	background-color: lightgreen;
+	height: 80px;
+}
+
+
+
+.houses{
+	background-image: url(../img/houses.jpg);
+	background-repeat: repeat;
+	background-size: 50%;
+	height: 200px;
+}
+
+h1 {
+	color: #fff;
+}
+
+body{
+	font-family: 'Baloo', cursive;
+}
+
+.map{
+	width:300px;
+	height: 300px;
+	
+}
+
+.card{
+	background-color: yellow;
+}
+
+.list{
+	background-color: yellow;
+}
